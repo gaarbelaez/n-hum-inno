@@ -16,15 +16,15 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "N-HUM-INNO LabCom"
+title                    : "N-HUM-INNO"
 title_separator          : "|"
 name                     : "N-HUM-INNO LabCom"
 description              : "N-HUM-INNO LabCom"
 #url                      : #"https://erpi.univ-lorraine.fr"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-url                      : "https://lf2l.github.io"
+url                      : "https://gaarbelaez.github.io"
 baseurl                  : "/n-hum-inno" # the subpath of your site, e.g. "/blog"
-repository               : "LF2L/n-hum-inno" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gaarbelaez/n-hum-inno" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
