@@ -45,6 +45,7 @@
         {% endif %}
       </li>
     {% endfor %}
-    {% include language_switcher %}
+     
+    {% comment %} {% include language_switcher %} {% endcomment %}
   </ul>
 </nav>
