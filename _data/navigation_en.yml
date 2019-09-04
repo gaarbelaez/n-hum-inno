@@ -1,0 +1,18 @@
+# Navigion Links 
+main:
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "News"
+    url: /news/
+  - title: "Contact"
+    url: /contact/
+  - title: ":fr:"
+    url: /fr/
+
+
+  
+
+
+

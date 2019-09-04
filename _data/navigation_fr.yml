@@ -1,0 +1,14 @@
+# Navigation Links in French
+main:
+  - title: "À propos"
+    url: /fr/about/
+  - title: "Publications"
+    url: /fr/publications/
+  - title: "Actualites"
+    url: /fr/news/
+  - title: "Contact"
+    url: /fr/contact/
+  - title: ':gb:'
+    url: /
+
+

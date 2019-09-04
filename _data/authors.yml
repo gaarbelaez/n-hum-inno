@@ -1,0 +1,84 @@
+Mauricio Camargo:
+  name: Mauricio Camargo  
+  email: " "
+  bio: " "
+  avatar: "/assets/images/people/Mauricio-Camargo.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=2o5hAtIAAAAJ&hl=fr"  
+
+
+Jean-Marie Diroux:
+  name: Jean-Marie Diroux
+  bio: " "
+  avatar: "/assets/images/people/Man.jpg"
+  email: " "
+
+
+Nicolas Ferveur:  
+  name: "Nicolas Ferveur"
+  bio: " "
+  avatar: "/assets/images/people/Man.jpg"
+  email: " "
+
+Laurent Muller:
+  name: Laurent Muller
+  bio: " "
+  avatar: "/assets/images/people/Laurent-Muller.jpg"
+  email: " "
+  links:
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/laurent-muller-868398132/?ppe=1"      
+
+
+Laurent Dupont:
+  name: "Laurent Dupont"
+  bio: "Co-fondateur et Responsable Scientifique du LF2L Ingénieur de Recherche ERPI / ENSGSI"
+  avatar: "/assets/images/people/LD.jpg"
+  email: l.dupont@univ-lorraine.fr
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.fr/citations?user=05uOEFcAAAAJ&hl=fr"
+    - label: "Researchgate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/Laurent_Dupont7"
+    - label: "Mendeley"
+      icon: "ai ai-mendeley"
+      url: "https://www.mendeley.com/profiles/laurent-dupont2/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "http://www.linkedin.com/in/dupontl"      
+
+
+
+
+Giovanny Arbelaez:
+  name: "Giovanny Arbelaez"
+  bio: "Research associate on acceptability assessment"
+  avatar: "/assets/images/people/GA.jpg"
+  links:
+      - label: "Google Scholar"
+        icon: "ai ai-google-scholar-square"
+        url: "https://scholar.google.fr/citations?user=qj178msAAAAJ&hl=en"
+      - label: "Mendeley"
+        icon: "ai ai-mendeley"
+        url: "https://www.mendeley.com/profiles/gaarbelaez/"
+      - label: "LinkedIn"
+        icon: "fab fa-linkedin"
+        url: "https://www.linkedin.com/in/gaarbelaez"      
+      - label: "Twitter"
+        icon: "fab fa-twitter-square"
+        url: "https://twitter.com/gaarbelaez"  
+
+
+Anaelle Hily:
+  name: Anaëlle Hily
+  email: ' '
+  bio: "PhD"
+  avatar: "/assets/images/people/Woman.jpeg"
+
+
+
