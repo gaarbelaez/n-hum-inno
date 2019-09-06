@@ -1,6 +1,6 @@
 ---
 title: Nicolas Ferveur
-permalink: /fr/people/Nicolas-Ferveur/
+permalink: /people/nicolas-ferveur/
 excerpt: "R&D coordinator - TEA (Board member)"
 last_modified_at: 2018-09-19
 author: Nicolas Ferveur

@@ -12,14 +12,14 @@ Mauricio Camargo:
 Jean-Marie Diroux:
   name: Jean-Marie Diroux
   bio: " "
-  avatar: "/assets/images/people/Man.jpg"
+  avatar: "/assets/images/people/JMD.png"
   email: " "
 
 
 Nicolas Ferveur:  
   name: "Nicolas Ferveur"
   bio: " "
-  avatar: "/assets/images/people/Man.jpg"
+  avatar: "/assets/images/people/NF.png"
   email: " "
 
 Laurent Muller:
@@ -78,7 +78,25 @@ Anaelle Hily:
   name: Anaëlle Hily
   email: ' '
   bio: "PhD"
-  avatar: "/assets/images/people/Woman.jpeg"
+  avatar: "/assets/images/people/AH.png"
+
+Julien Michaux:
+  name: Julien Michaux
+  email: ' '
+  bio: "IE"
+  avatar: "/assets/images/people/JM.png"
+
+Thibaut Muller:
+  name: Thibaut Muller
+  email: ' '
+  bio: "Ingénieur"
+  avatar: "/assets/images/people/TM.png"
+
+Jonay Grandmontagne:
+  name: Jonay Grandmontagne
+  email: ' '
+  bio: "Biomechanicien"
+  avatar: "/assets/images/people/JG.png"
 
 
 

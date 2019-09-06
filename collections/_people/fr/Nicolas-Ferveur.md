@@ -1,6 +1,6 @@
 ---
 title: Nicolas Ferveur
-permalink: /fr/people/Nicolas-Ferveur/
+permalink: /fr/people/nicolas-ferveur/
 excerpt: "Resp R&D - TEA (COPIL)"
 last_modified_at: 2018-09-19
 author: Nicolas Ferveur

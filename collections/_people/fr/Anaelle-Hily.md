@@ -3,9 +3,9 @@ title: Anaëlle Hily
 permalink: /fr/people/anaelle-hily/
 excerpt: "Doctorante CIFRE - Labcom"
 last_modified_at: 2018-09-19
-author: Anaëlle Hily
+author: Anaelle Hily
 header:
-  teaser: /assets/images/people/Woman.jpg
+  teaser: /assets/images/people/AH.png
 
 tags:
   - Acceptability assessment
@@ -13,7 +13,7 @@ tags:
   - Living Lab
 
 orden: Arbelaez
-role: MCF
+role: Prof
 ---
 
 Doctorante CIFRE avec TEA - rattache au projet N-Hum-Inno.
