@@ -36,7 +36,7 @@ Le LabCom est un programme de recherche financé par l'ANR qu’associe deux par
 
 **TEA** est une PME française leader dans la mesure de l'activité de l'homme dans des environnements réel complexes. Avec plus de 30 d'expériences dans la R&D et avec des liens forts avec des experts scientifiques. TEA développe et commercialise plusieurs produits permettant la mesure de l'activité humaine dans des environnements réels ou virtuels.
 
-**ERPI** l'expertise scientifique et les connaissances dans les processus d'innovation collaborative ainsi que de l'évaluation de l'expérience en environnement immersif collaboratifs seront mis en œuvre pour le développement des démonstrateurs partagés.
+**ERPI** apporte l'expertise scientifique et les connaissances dans les processus d'innovation collaborative ainsi que dans l'évaluation de l'expérience en environnement immersif collaboratifs que seront mis en œuvre pour le développement des démonstrateurs partagés.
 
 Ce programme va permettre le développement des produits et solutions TEA pour accéder à des nouveaux marches de croissance (industrie 4.0, Neuro-Marketing, smart-city …) ainsi que le développement des démonstrateurs partagés des solutions sur des marchés d'application spécifiques.
 
