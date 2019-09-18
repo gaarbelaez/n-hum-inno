@@ -32,7 +32,7 @@ Digital technology is used to help and amplify decision-making capabilities in i
 
 ## Shared skills, expertise and resources
 
-The LabCom is a research program funded by the ANR and involves two complementary partners, the ERPI laboratory and the SME TEA.
+N-Hum-Inno is a joint research program funded by the ANR and involves two complementary partners, the ERPI laboratory and the SME TEA.
 
 **TEA** is a French SME leader in measuring human activity in complex real environments. With more than 30 years of experience in R&D and strong links with scientific experts. TEA develops and markets several products for measuring human activity in real or virtual environments.
 

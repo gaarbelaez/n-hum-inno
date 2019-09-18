@@ -27,7 +27,7 @@ last_modified_at: 2019-05-07
 
 S’intéresse à l’étude des interactions Homme-Homme et Homme-Machine supportées par le numérique, avec la vision de : la technologie au service des hommes. 
 
-La technologie numérique est utilisée pour aider et amplifier les capacités de prise de décision dans des environnements des plus en plus complexes (augmentation des informations à traiter, des interactions entre parties prenantes plus fréquentes, interfaces réel vs. Virtuel, etc.).
+La technologie numérique est utilisée pour aider et amplifier les capacités de prise de décision dans des environnements des plus en plus complexes (augmentation des informations à traiter, des interactions entre parties prenantes plus fréquentes, interfaces réelle, virtuel, etc.).
 
 ## Des compétences, expertises et de ressources partagés
 

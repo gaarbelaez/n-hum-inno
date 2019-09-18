@@ -12,7 +12,7 @@ last_modified_at: 2019-04-08
 ## Contact Information
 
 
-### La platerformes experimentale du LabCom N-Hum-Inno se trouvent au [Lorraine Fab Living Lab](http://lf2l.fr)
+### La platerforme experimentale N-Hum-Inno se trouve au [Lorraine Fab Living Lab](http://lf2l.fr)
 49 Boulevard d'Asutrasie,
 54000, Nancy - France
 

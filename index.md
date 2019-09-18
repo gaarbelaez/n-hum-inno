@@ -6,7 +6,7 @@ permalink: "/"
 excerpt: LabCom N-Hum-Inno
 header:
   overlay_image: "/assets/images/home/banner-labcom.jpg"
-  
+
 
 gallery:
 - url: https://erpi.univ-lorraine.fr/
@@ -25,18 +25,26 @@ gallery:
 ---
 
 
-**The Common Laboratory: N-Hum-Inno**
+**The joint research laboratory: N-Hum-Inno**
 
-Is interested in the study of digitally supported human-man and human-machine interactions, with the vision of : 
-technology at the service of people. 
+Is interested in the study of digitally supported human-human and human-machine interactions, with the vision of :
+technology at the service of people.
 
 Digital technology is used to help and amplify decision-making capabilities in increasingly complex environments (increased information processing, more frequent stakeholder interactions, real vs. virtual interfaces, etc.).
 
-The LabCom is a research program funded by the ANR and involves two complementary partners, the ERPI laboratory and the SME TEA.
+## Aims
+This research program aims to:
 
-**TEA** is a French SME leader in measuring human activity in complex real environments. With more than 30 years of experience in R&D and strong links with scientific experts. TEA develops and markets several products for measuring human activity in real or virtual environments.
+- Facilitate the analysis of human behaviour exposed to digital stimuli 
+- Generate experience evaluation indicators that take into account the diversity of data and provide useful information to designers and users 
+- Implement artificial intelligence tools to deal with data uncertainty
+- Develop shared application demonstrators (Industry 4.0, Neuro-Marketing, Smart-City...)
 
-**ERPI** scientific expertise and knowledge in collaborative innovation processes as well as the evaluation of the experience in collaborative immersive environments will be implemented for the development of shared demonstrators.
+The LabCom is a research program funded by the ANR and involves two complementary partners, the [ERPI laboratory](https://erpi.univ-lorraine.fr) and the SME [TEA](https://teaergo.com/wp/).
+
+**TEA** is a French SME leader in measuring human activity in complex real environments. With more than 30 years of experience in R&D and strong links with scientific experts. TEA develops and commercialize several products for measuring human activity in real or virtual environments.
+
+**ERPI** is a research team on industrial engineering of the [Univerity of Lorraine](https://univ-lorraine.fr). Its scientific expertis is on collaborative innovation processes as well as the evaluation of the experience in collaborative immersive environments. Its experimental pltform the [Lorraine Fab Living Lab](https://lf2l.fr) would help to accelerate the development of industrial demonstrators.
 
 This program will allow the development of TEA products and solutions to access new growth markets (industry 4.0, Neuro-Marketing, smart-city...) as well as the development of shared demonstrators of solutions on specific application markets.
 
@@ -49,7 +57,7 @@ This program will allow the development of TEA products and solutions to access 
 ## Latest News
 
 
-{% include /n-hum-inno/Posts-EN.html %} 
+{% include /n-hum-inno/Posts-EN.html %}
 
 
 ## Legal notice
