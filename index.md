@@ -35,7 +35,7 @@ Digital technology is used to help and amplify decision-making capabilities in i
 ## Aims
 This research program aims to:
 
-- Facilitate the analysis of human behaviour exposed to digital stimuli 
+- Facilitate the analysis of human behavior exposed to digital stimuli 
 - Generate experience evaluation indicators that take into account the diversity of data and provide useful information to designers and users 
 - Implement artificial intelligence tools to deal with data uncertainty
 - Develop shared application demonstrators (Industry 4.0, Neuro-Marketing, Smart-City...)
@@ -44,7 +44,7 @@ The LabCom is a research program funded by the ANR and involves two complementar
 
 **TEA** is a French SME leader in measuring human activity in complex real environments. With more than 30 years of experience in R&D and strong links with scientific experts. TEA develops and commercialize several products for measuring human activity in real or virtual environments.
 
-**ERPI** is a research team on industrial engineering of the [Univerity of Lorraine](https://univ-lorraine.fr). Its scientific expertis is on collaborative innovation processes as well as the evaluation of the experience in collaborative immersive environments. Its experimental pltform the [Lorraine Fab Living Lab](https://lf2l.fr) would help to accelerate the development of industrial demonstrators.
+**ERPI** is a research team on industrial engineering of the [University of Lorraine](https://univ-lorraine.fr). Its scientific expertise is on collaborative innovation processes as well as the evaluation of the experience in collaborative immersive environments. Its experimental platform the [Lorraine Fab Living Lab](https://lf2l.fr) would help to accelerate the development of industrial demonstrators.
 
 This program will allow the development of TEA products and solutions to access new growth markets (industry 4.0, Neuro-Marketing, smart-city...) as well as the development of shared demonstrators of solutions on specific application markets.
 
