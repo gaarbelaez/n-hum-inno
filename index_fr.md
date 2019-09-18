@@ -53,4 +53,4 @@ Ce programme va permettre le développement des produits et solutions TEA pour a
 
 ## Notice Legale
 
-N-Hum-Inno est un laboratoire commun entre l'netreprise TEA et le laboratoire ERPI que beneficie d'un financement ANR - Convention ANR-18-LCV3-0007-01.
+N-Hum-Inno est un laboratoire commun entre l'entreprise TEA et le laboratoire ERPI que beneficie d'un financement ANR - Convention ANR-18-LCV3-0007-01.
