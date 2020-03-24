@@ -17,6 +17,8 @@ last_modified_at: 2019-09-04
 
 For any contact or information request: giovanny.arbelaez-garces (at) univ-lorraine.fr
 
+<iframe src="https://discordapp.com/widget?id=691998560023085106&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 
 ### Laboratoire ERPI
 
