@@ -8,7 +8,6 @@ header:
   teaser: /assets/images/people/NF.png
 
 tags:
-  - Acceptability assessment
   - User eXperience
   - Living Lab
 
@@ -16,5 +15,5 @@ orden: Arbelaez
 role: Prof
 ---
 
-(Evaluation de l'acceptabilité, aide à la décision)
+Nicolas is the R&D manager of TEA. He is responsible for all the technological developments and the decision making about the technological solutions that goes in the software and hardware products of TEA.
 
