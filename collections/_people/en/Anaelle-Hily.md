@@ -8,14 +8,13 @@ header:
   teaser: /assets/images/people/AH.png
 
 tags:
-  - Acceptability assessment
-  - User eXperience
+  - VR
+  - spatial cognition
   - Living Lab
 
 orden: Arbelaez
 role: Prof
 ---
 
-Doctorante CIFRE avec TEA - rattache au projet N-Hum-Inno.
-Ses travaux portent sur ...
+Anaëlle is an industrial Ph.D. student at the University of Lorraine (ERPI) in collaboration with the company TEA. Her work intends to provide protocols and tools to study the interactions (behaviors, emotions) between participants facing immersive reality experiences. The developed tools should provide indicators for the analysis of these experiences and to facilitate design decision making. She holds a MsC. on Engineering Innovation management from the Université de Lorraine / ENSGSI.
 
