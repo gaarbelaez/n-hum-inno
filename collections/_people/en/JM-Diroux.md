@@ -8,11 +8,9 @@ header:
   teaser: /assets/images/people/JMD.png
 
 tags:
-  - Acceptability assessment
-  - User eXperience
-  - Living Lab
-
+  - Direction
 orden: Arbelaez
 role: Prof
 ---
 
+JMD is the product director of TEA.
