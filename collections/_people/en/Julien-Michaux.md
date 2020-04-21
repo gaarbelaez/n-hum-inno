@@ -8,14 +8,14 @@ header:
   teaser: /assets/images/people/JM.png
 
 tags:
-  - Acceptability assessment
-  - User eXperience
-  - Living Lab
+  - VR
+  - Dev
+
 
 orden: Arbelaez
 role: Prof
 ---
 
-IE pour developpement VR projet N-Hum-Inno.
+Julien is an Development Engineer in particular he works on the development of the software solution for VR assessment in the project.
 
 
