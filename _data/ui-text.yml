@@ -44,6 +44,7 @@ en: &DEFAULT_EN
   search_placeholder_text    : "Enter your search term..."
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
+  download_label             : "Download here"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
