@@ -20,7 +20,7 @@ gallery:
     image_path: "/assets/images/partners/LogoANR.jpg"
     alt: ANR
     title: ANR
-  - url: https://teaergo.com/
+  - url: https://www.teaergo.com/
     image_path: "/assets/images/partners/TEASite2.jpg"
     alt: TEA
     title: TEA ergo
