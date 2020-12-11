@@ -2,7 +2,7 @@
 lang: en
 title: N-HUM-INNO
 permalink: "/"
-layout: splash
+layout: single
 excerpt: LabCom N-Hum-Inno
 
 header:
@@ -34,21 +34,33 @@ feature_row1:
     url: "/about/"
     btn_label: "Lire plus"
     btn_class: "btn--primary"
-
+    
 
 gallery:
   - url: https://erpi.univ-lorraine.fr/
     image_path: "/assets/images/partners/logo-ERPI.png"
     alt: ERPI
     title: ERPI
-  - url: http://www.anrt.asso.fr/fr
-    image_path: "/assets/images/partners/LogoANR.jpg"
-    alt: ANR
-    title: ANR
   - url: https://www.teaergo.com/
     image_path: "/assets/images/partners/TEASite2.jpg"
     alt: TEA
     title: TEA ergo
+
+
+academic:
+  - url: https://www.ensgsi.univ-lorraine.fr/
+    image_path: "/assets/images/partners/ENSGSI.jpg"
+    alt: ENSGSI
+    title: ENSGSI
+  - url: http://www.anrt.asso.fr/fr
+    image_path: "/assets/images/partners/LogoANR.jpg"
+    alt: ANR
+    title: ANR
+  - url: http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/simppe/presentation
+    image_path: "/assets/images/partners/EMPP.png"
+    alt: Pole EMPP
+    title: Pole EMPP    
+
 
 ---
 
@@ -58,12 +70,9 @@ gallery:
 
 {% include feature_row id="feature_row1" type="left" %}
 
-<!-- {% include feature_row id="feature_row2" type="right" %}  
-
- -->
 
 
-## Partners
+## Members
 
 {% include gallery %}
 
@@ -72,6 +81,10 @@ gallery:
 
 {% include /n-hum-inno/Posts-EN.html %}
 
+
+## Partners
+
+{% include gallery id="academic" %}
 
 ## Legal notice
 

@@ -1,12 +1,38 @@
 ---
 lang: fr
 title: "N-HUM-INNO"
-layout: single
 permalink: /fr/
+layout: single
 excerpt: "LabCom N-Hum-Inno"
 
 header:
-  overlay_image: /assets/images/home/banner-labcom.jpg
+  overlay_image: "/assets/images/home/banner.jpg"
+  caption: 
+  overlay_filter: rgba(0, 0, 153, 0.5)
+
+intro: 
+  - excerpt: "**Le Laboratoire Commun N-Hum-Inno: l’Homme au Cœur des Enjeux des Mondes Numériques** S’intéresse à l’étude des interactions Homme-Homme et Homme-Machine supportées par le numérique, avec la vision de :
+la technologie au service des hommes.
+La technologie numérique est utilisée pour aider et amplifier les capacités de prise de décision dans des environnements des plus en plus complexes (augmentation des informations à traiter, des interactions entre parties prenantes plus fréquentes, interface réelle, virtuelle, etc.)."
+ 
+
+feature_row1:
+  - image_path: "/assets/images/home/fig2.jpg" 
+    alt: "pariticpant using vr helmet"
+    title: "Objectifs"
+    excerpt: "
+    - Faciliter l’observation et l’analyse du comportement de l’homme exposé à un stimuli 
+    
+    - Générer des indicateurs d’évaluation de l’expérience que prennent en compte la diversité des données et qui fournissent une information utile aux concepteurs et aux utilisateurs.
+    
+    - Implémenter des outils de l’intelligence artificiel pour faire face à l’incertitude des données
+
+    - Développer des démonstrateurs partagés d’applications (Industrie 4.0, Neuro-Marketing, Smart-City …) "
+
+    
+    url: "/fr/about/"
+    btn_label: "Lire plus"
+    btn_class: "btn--primary"
 
 
 gallery:
@@ -14,41 +40,36 @@ gallery:
   image_path: "/assets/images/partners/logo-ERPI.png"
   alt: ERPI
   title: ERPI
-- url: http://www.anrt.asso.fr/fr
-  image_path: "/assets/images/partners/LogoANR.jpg"
-  alt: ANR
-  title: ANR
 - url: https://teaergo.com/
   image_path: "/assets/images/partners/TEASite2.jpg"
   alt: TEA
   title: TEA ergo
 
+
+academic:
+  - url: https://www.ensgsi.univ-lorraine.fr/
+    image_path: "/assets/images/partners/ENSGSI.jpg"
+    alt: ENSGSI
+    title: ENSGSI
+  - url: http://www.anrt.asso.fr/fr
+    image_path: "/assets/images/partners/LogoANR.jpg"
+    alt: ANR
+    title: ANR
+  - url: http://doctorat.univ-lorraine.fr/fr/les-ecoles-doctorales/simppe/presentation
+    image_path: "/assets/images/partners/EMPP.png"
+    alt: Pole EMPP
+    title: Pole EMPP    
+
+
 ---
 
-**Le Laboratoire Commun N-Hum-Inno: l’Homme au Cœur des Enjeux des Mondes Numériques**
 
-S’intéresse à l’étude des interactions Homme-Homme et Homme-Machine supportées par le numérique, avec la vision de :
-la technologie au service des hommes.
+{% include feature_row id="intro" type="center" %}
 
-La technologie numérique est utilisée pour aider et amplifier les capacités de prise de décision dans des environnements des plus en plus complexes (augmentation des informations à traiter, des interactions entre parties prenantes plus fréquentes, interface réelle, virtuelle, etc.).
+{% include feature_row id="feature_row1" type="left" %}
 
-## Objectifs
-Ce programme de recherche vise à :
 
-- Faciliter l’observation et l’analyse du comportement de l’homme exposé à un stimuli 
-- Générer des indicateurs d’évaluation de l’expérience que prennent en compte la diversité des données et qui fournissent une information utile aux concepteurs et aux utilisateurs. 
-- Implémenter des outils de l’intelligence artificiel pour faire face à l’incertitude des données
-- Développer des démonstrateurs partagés d’applications (Industrie 4.0, Neuro-Marketing, Smart-City …)
-
-Le LabCom est un programme de recherche financé par [l'ANR](http://www.anr.asso.fr/fr) qu’associent deux partenaires complémentaires, le laboratoire [ERPI](https://erpi.univ-lorraine.fr) et la PME [TEA](https://teaergo.com/).
-
-**TEA** est une PME française leader dans la mesure de l'activité de l'homme dans des environnements réel complexes. Avec plus de 30 d'expériences dans la R&D et avec des liens forts avec des experts scientifiques. TEA développe et commercialise plusieurs produits permettant la mesure de l'activité humaine dans des environnements réels ou virtuels.
-
-**ERPI** est un laboratoire en Génie Industriel de [l'Université de Lorraine](http://univ-lorraine.fr) avec une expertise scientifique et des connaissances dans les processus d'innovation collaborative ainsi que dans l'évaluation de l'expérience en environnement immersif collaboratifs.
-
-Ce programme va permettre le développement des produits et solutions TEA pour accéder à des nouveaux marchés de croissance (industrie 4.0, Neuro-Marketing, smart-city …) ainsi que le développement des démonstrateurs partagés des solutions sur des marchés d'application.
-
-## Partenaires
+## Membres
 
 {% include gallery %}
 
@@ -58,6 +79,10 @@ Ce programme va permettre le développement des produits et solutions TEA pour a
 
 {% include /n-hum-inno/Posts-FR.html %}
 
+
+## Partenaires
+
+{% include gallery id="academic" %}
 
 ## Notice Légale
 
