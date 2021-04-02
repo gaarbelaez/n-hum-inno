@@ -2,7 +2,7 @@
 lang: fr
 title: "N-HUM-INNO"
 permalink: /fr/
-layout: single
+layout: splash
 excerpt: "LabCom N-Hum-Inno"
 
 header:

@@ -2,7 +2,7 @@
 lang: en
 title: N-HUM-INNO
 permalink: "/"
-layout: single
+layout: splash
 excerpt: LabCom N-Hum-Inno
 
 header:
