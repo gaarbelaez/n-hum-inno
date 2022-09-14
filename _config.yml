@@ -23,7 +23,7 @@ description              : "N-HUM-INNO LabCom"
 #url                      : #"https://erpi.univ-lorraine.fr"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 url                      : #"https://gaarbelaez.github.io/n-hum-inno/" #"https://n-hum-inno.eu"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/n-hum-inno" # the subpath of your site, e.g. "/blog"
 repository               : "gaarbelaez/n-hum-inno" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
